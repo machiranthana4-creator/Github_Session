@@ -7,7 +7,7 @@ int main()
 
 
     Area=height*width;
-    printf("Area of a rectangle: ",Area);
+    printf("Area of a rectangle is: \n",Area);
 
     return 0;
 }
